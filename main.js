@@ -49,4 +49,4 @@ function drawMap(landmark) {
 		query: query,
 		key: this.google_maps_key	
 	});
-}
+} 
